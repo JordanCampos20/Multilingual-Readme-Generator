@@ -10,7 +10,7 @@
 
 <p align="center"><img src="Images/preview.png" alt="Project Preview"></p>
 
-<h4 align="center"><a href="jordancampos20.github.io/Multilingual-Readme-Generator/">Click to see the project</a></h4>
+<h4 align="center"><a href="https://jordancampos20.github.io/Multilingual-Readme-Generator/">Click to see the project</a></h4>
 <h4 align="center"><a href="https://github.com/JordanCampos20/Multilingual-Readme-Generator/archive/refs/heads/main.zip">Click to download project</a></h4>
 
 ---
